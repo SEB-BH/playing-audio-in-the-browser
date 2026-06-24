@@ -40,19 +40,5 @@ In this module, you'll get an introduction to the world of audio in web developm
 
 🌐 [Live Example](https://ga-curriculum.github.io/playing-audio-in-the-browser-solution/)
 
-### Course landing pages
-
-- [Default Landing Page](https://ga-curriculum.github.io/playing-audio-in-the-browser/canvas-landing-pages/fallback)
-- [SEB - Software Engineering Bootcamp](https://ga-curriculum.github.io/playing-audio-in-the-browser/canvas-landing-pages/seb)
-
-### Resources
-
-✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
-
-🎥 [Video Hub](./internal-resources/video-hub.md)
-
-🏗️ [Release Notes](./internal-resources/release-notes.md)
-
----
 
 **Find a 👾 bug 👾 or have suggestions? [Let us know](https://ga-curriculum.github.io/universal-resources-internal/module-feedback)!**
