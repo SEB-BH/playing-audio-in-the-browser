@@ -38,7 +38,7 @@ In this module, you'll get an introduction to the world of audio in web developm
 
 ### Deployed sites
 
-🌐 [Live Example](https://ga-curriculum.github.io/playing-audio-in-the-browser-solution/)
+🌐 [Live Example](https://seb-bh.github.io/playing-audio-in-the-browser-solution/)
 
 
 **Find a 👾 bug 👾 or have suggestions? [Let us know](https://ga-curriculum.github.io/universal-resources-internal/module-feedback)!**
